@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "896313402334",
+    "project_id": "interviewassesment-ca394",
+    "storage_bucket": "interviewassesment-ca394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896313402334:android:c80f596477a94319bff34f",
+        "android_client_info": {
+          "package_name": "com.example.interview_assesment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896313402334-oapt63gej4jcnbe29djn1u59l2g19fuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALZmtC7ZDVzQN_Hbk58-K0FNC9-sR6Gvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896313402334-oapt63gej4jcnbe29djn1u59l2g19fuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
